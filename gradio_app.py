@@ -277,3 +277,4 @@ def sam2_in_video():
 
 if __name__ == "__main__":
     initialize_predictor("tiny")
+    sam2_in_video()
