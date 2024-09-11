@@ -1,3 +1,4 @@
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h9oG5QafmFBuJEvdfVAXFT_Iawpb5HOP?usp=sharing)
 # SAM2-in-Video
 
 This repository contains code for deploying a Gradio application using the SAM2 model for video processing. The application allows users to interact with the model through a user-friendly web interface.
